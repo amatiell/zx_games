@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "letter": "j",
+  "games": [
+    {
+      "id": "jetpac",
+      "title": "Jetpac",
+      "variants": [
+        {
+          "id": "default",
+          "title": "Default",
+          "file": "jetpac/default.tap",
+          "type": "tap"
+        },
+        {
+          "id": "128k",
+          "title": "128K version",
+          "file": "jetpac/128k.tap",
+          "type": "tap"
+        }
+      ]
+    },
+    {
+      "id": "jet-set-willy",
+      "title": "Jet Set Willy",
+      "variants": [
+        {
+          "id": "default",
+          "title": "Default",
+          "file": "jet-set-willy/default.tap",
+          "type": "tap"
+        },
+        {
+          "id": "128k",
+          "title": "128K version",
+          "file": "jet-set-willy/128k.tap",
+          "type": "tap"
+        },
+        {
+          "id": "remake",
+          "title": "Remake",
+          "file": "jet-set-willy/remake.tap",
+          "type": "tap"
+        }
+      ]
+    }
+  ]
+}
