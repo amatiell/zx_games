@@ -9,7 +9,7 @@
         {
           "id": "default",
           "title": "Default",
-          "file": "jetpac/default.tap",
+          "file": "jetpac/JETPAC.TAP",
           "type": "tap"
         },
         {
