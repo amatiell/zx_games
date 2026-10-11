@@ -9,7 +9,7 @@
         {
           "id": "default",
           "title": "Default",
-          "file": "lode-runner/default.tap",
+          "file": "lode-runner/(EN)(128K).tap",
           "type": "tap"
         },
         {
