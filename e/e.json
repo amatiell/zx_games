@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "letter": "e",
+  "games": [
+    {
+      "id": "exolon",
+      "title": "Exolon",
+      "variants": [
+        {
+          "id": "default",
+          "title": "Default",
+          "file": "exolon/default.tap",
+          "type": "tap"
+        },
+        {
+          "id": "128k",
+          "title": "128K version",
+          "file": "exolon/128k.tap",
+          "type": "tap"
+        }
+      ]
+    }
+  ]
+}
