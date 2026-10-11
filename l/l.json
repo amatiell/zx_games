@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "letter": "l",
+  "games": [
+    {
+      "id": "lode-runner",
+      "title": "Lode Runner",
+      "variants": [
+        {
+          "id": "default",
+          "title": "Default",
+          "file": "lode-runner/default.tap",
+          "type": "tap"
+        },
+        {
+          "id": "128k",
+          "title": "128K version",
+          "file": "lode-runner/128k.tap",
+          "type": "tap"
+        }
+      ]
+    }
+  ]
+}
